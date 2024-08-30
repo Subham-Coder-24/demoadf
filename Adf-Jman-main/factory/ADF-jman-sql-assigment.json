@@ -1,0 +1,9 @@
+{
+	"name": "ADF-jman-sql-assigment",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "39ade596-8de8-483e-89b5-f34f77b86c05",
+		"tenantId": "2800c0a0-70e9-49be-8733-faeaa6aced99"
+	}
+}

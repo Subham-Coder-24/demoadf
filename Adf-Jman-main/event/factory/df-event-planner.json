@@ -1,0 +1,9 @@
+{
+	"name": "df-event-planner",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "418b6c6e-030e-4ab8-98c5-fe53141fa501",
+		"tenantId": "2800c0a0-70e9-49be-8733-faeaa6aced99"
+	}
+}
